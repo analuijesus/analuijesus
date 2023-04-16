@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-de-jesus-90a047230/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anadejesus.dev@gmail.com)
 
-![Ana de Jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=anadejesus&show_icons=true&theme=dark)
+![Ana de Jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=analuijesus&show_icons=true&theme=dark)
 
 ### Tecnologias que uso no meu dia a dia
 
